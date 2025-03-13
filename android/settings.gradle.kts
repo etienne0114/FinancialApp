@@ -1,5 +1,3 @@
-enableFeaturePreview("VERSION_CATALOGS")
-
 rootProject.name = "financial_manager_app"
 include(":app")
 
